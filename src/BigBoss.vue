@@ -1,5 +1,4 @@
 <template>
-   vdmsk
    <TodoList />
 </template>
 
